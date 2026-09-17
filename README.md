@@ -1,4 +1,4 @@
-# 🔐 ContentForge - AI Content Transformer
+# 🔐 Gen AI Platform for Automated Content Transformation
 
 > **PS 26154 – Gen AI Platform for Automated Content Transformation**
 
